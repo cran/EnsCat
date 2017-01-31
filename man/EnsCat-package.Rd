@@ -10,8 +10,8 @@ EnsCat implements several methods for clustering of categorical data.}
 \tabular{ll}{
 Package: \tab EnsCat\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2017-01-17\cr
+Version: \tab 1.1\cr
+Date: \tab 2017-01-29\cr
 License: \tab >=GPL-2\cr
 }
 }

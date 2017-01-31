@@ -31,7 +31,7 @@ enhcHi(data, En=100, len=c(2,10), type=2)
 
 
 \examples{
-data("rhabdodata")
+#data("rhabdodata")
 ### The following code generates the dissimilary matrix of sequence data stored in alphadata
 ### The ensemble has 100 member clusterings, and the number of clusters in each clustering
 ### is generated randomly from a discrete uniform on (2,10). A double bootstrap procedure is
